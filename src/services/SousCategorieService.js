@@ -5,5 +5,5 @@ class SousCategorieService extends BaseService {
     constructor() { super(prisma.sousCategorie); }
 }
 
-module.exports = new SousCategorieService();
+module.exports =new SousCategorieService();
   
